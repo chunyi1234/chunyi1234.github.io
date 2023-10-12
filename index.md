@@ -21,9 +21,9 @@
 - Tools: Linux, Git, Docker
 - Database: MySQL, PostgreSQL, MongoDB, RocksDB
 
-## [Blog](https://github.com/chunyi1234/Blog)
+## [Blog](https://github.com/chunyi1234/chunyi1234.github.io/Blog)
 
-[Click Here](https://github.com/chunyi1234/Blog) and you can visit my blog in github.
+[Click Here](https://github.com/chunyi1234/chunyi1234.github.io/Blog) and you can visit my blog in github.
 
 ## Contract
 
