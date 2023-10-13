@@ -4,6 +4,6 @@
 
 ## Blogs
 
-- 20231010: [C++ Templates: Some Tips](./blogdir/20231013cpptemplate.md)
+- 20231010: [C++ Templates: Some Tips](./blogdir/20231013.html)
 
-[Back to homepage](../index.md)
+[Back to homepage](../index.html)
