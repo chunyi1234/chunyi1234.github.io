@@ -28,4 +28,4 @@
 
 ## Contract
 
-You can contract me by the email: chunyi123\at ustc.edu.cn
+You can contract me by the email: chunyi123\at mail.ustc.edu.cn
