@@ -4,10 +4,11 @@
 
 ## Education
 
-- 2018.09-2022.06, Bachelor(Major in Information Security), School of Cyber Security, in USTC(University of Science and Technology of China)
-- 2018.09-2022.06, 学士(信息安全专业), 网络空间安全学院, 中国科学技术大学
 - 2022.09-, Master(Major in Network and Information Security), School of Cyber Security, in USTC(University of Science and Technology of China), Supervised by Prof. Kaiping Xue
 - 2022.09-, 硕士(网络与信息安全专业), 网络空间安全学院, 中国科学技术大学, 导师: 薛开平
+- 2018.09-2022.06, Bachelor(Major in Information Security), School of Cyber Security, in USTC(University of Science and Technology of China)
+- 2018.09-2022.06, 学士(信息安全专业), 网络空间安全学院, 中国科学技术大学
+
 
 
 ## Award
@@ -23,7 +24,7 @@
 
 ## Blog
 
-[Click Here](https://chunyi1234.github.io/Blog) and you can visit my blog in github.
+[Click Here](./Blog/.index.md) and you can visit my blog in github.
 
 ## Contract
 

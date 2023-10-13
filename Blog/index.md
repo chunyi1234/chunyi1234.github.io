@@ -4,4 +4,4 @@
 
 ## Blogs
 
-[Back to homepage](https://github.com/chunyi1234/chunyi1234.github.io)
+[Back to homepage](../index.md)
