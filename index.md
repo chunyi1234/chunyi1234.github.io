@@ -24,7 +24,7 @@
 
 ## Blog
 
-[Click Here](./Blog/.index.md) and you can visit my blog in github.
+[Click Here](./Blog/index.md) and you can visit my blog in github.
 
 ## Contract
 
