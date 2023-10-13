@@ -1,4 +1,6 @@
 # C++ Templates
+
+[Back to Blog Site](../index.html)
 C++中函数和类均有template（模板）的概念，模板可以帮助我们自定义类型，尤其是当我们希望用一个函数处理多种数据类型时：
 
 一个简单的函数模板示例：
