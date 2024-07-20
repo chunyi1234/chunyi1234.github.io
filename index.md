@@ -1,14 +1,17 @@
+<!--
+ * @Author: chunyi123 chunyi123@mail.ustc.edu.cn
+ * @Date: 2024-07-20 12:52:14
+ * @LastEditors: chunyi123 chunyi123@mail.ustc.edu.cn
+ * @LastEditTime: 2024-07-20 12:52:58
+ * @FilePath: /chunyi1234.github.io/index.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by chunyizhang, All Rights Reserved. 
+-->
 # Welcome to Chunyi Zhang's Pages
 
 > **To be a better Coder.**
 
-## Tasks for Everyday!
-
-> 2024年4月15日 [link](./Task/oldTasks.html)
-
-- Read paper “Security Analysis of MongoDB Queryable Encryption” [link](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/research/Security-Analysis-of-MongoDB-Queryable-Encryption.pdf)
-- Based on the paper give a powerpoint (DDL: tonight 7:00 pm)
-- LC(10, 11, 12) [link](https://leetcode.cn/problemset/)
 
 ## Education
 
